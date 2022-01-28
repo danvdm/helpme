@@ -5,7 +5,7 @@ date: "1/28/2022"
 output: html_document
 ---
 
-##This package contains two functions:
+## This package contains two functions:
 
 The remind_me function and the cheat function.
 
