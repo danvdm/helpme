@@ -4,14 +4,14 @@ author: "Daniel van der Meer"
 date: "1/28/2022"
 output: html_document
 ---
-#First install devtools
-install.packages("devtools")
-#Load devtools
-library(devtools)
-#Install helpme
-install_github("danvdm/helpme")
-#load helpme
-library(helpme)
+#First install devtools  
+install.packages("devtools")  
+#Load devtools  
+library(devtools)  
+#Install helpme  
+install_github("danvdm/helpme")  
+#load helpme  
+library(helpme)  
 
 ## This package contains two functions:
 
