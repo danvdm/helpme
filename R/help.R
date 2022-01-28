@@ -1,6 +1,6 @@
 # Hello, world!
 #
-# This is an example function named 'hello' 
+# This is an example function named 'hello'
 # which prints 'Hello, world!'.
 #
 # You can learn more about package authoring with RStudio at:
@@ -13,6 +13,23 @@
 #   Check Package:             'Cmd + Shift + E'
 #   Test Package:              'Cmd + Shift + T'
 
-hello <- function() {
-  print("Hello, world!")
+# Author: Daniel van der Meer
+#
+
+# Function to remind me of some things.
+remind_me <- function(){
+  message("Remember that there is a programming exam at some point!")
+  message("Also: Julias birthday is on the 5th of february!")
 }
+
+cheat <- function(exercise){
+
+
+}
+
+
+
+
+
+
+
